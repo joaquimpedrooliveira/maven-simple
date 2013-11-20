@@ -1,7 +1,7 @@
 maven-simple
 ============
 
-Projeto básico do Maven 3 para exemplos de GCS. 
+Projeto básico do Maven para exemplos da disciplina GCS da Especialização em Engenharia de Software. 
 
 Este projeto pode ser usando também para exemplos com o git e o github. A ideia é mostrar tópicos como:
 *	automação de builds;
