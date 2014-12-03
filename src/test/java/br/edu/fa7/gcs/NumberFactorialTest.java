@@ -8,7 +8,7 @@ public class NumberFactorialTest {
 
 	@Test
 	public void testaFatorialDe2() {
-		assertEquals(2, NumberFactorial.factorial(2));
+		assertEquals(1, NumberFactorial.factorial(2));
 	}
 
 	@Test
