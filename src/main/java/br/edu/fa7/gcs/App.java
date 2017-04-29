@@ -10,4 +10,14 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    private void naoUsado() {
+    	try {
+    		for (int i=0; i<100; i++) {
+    			String erro = new String("erro");
+    		}
+    	} catch (Exception e) {
+    		
+    	}
+    }
 }
