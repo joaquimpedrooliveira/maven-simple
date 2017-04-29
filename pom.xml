@@ -31,6 +31,7 @@
 				<version>3.0.4</version>
 				<configuration>
 					<effort>Max</effort>
+					<failOnError>true</failOnError>
 				</configuration>
 			</plugin>
 			<plugin>
