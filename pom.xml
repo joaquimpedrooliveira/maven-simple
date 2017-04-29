@@ -44,7 +44,7 @@
 						<configuration>
 							<encoding>UTF-8</encoding>
 							<consoleOutput>true</consoleOutput>
-							<failOnViolation>false</failOnViolation>
+							<failOnViolation>true</failOnViolation>
 						</configuration>
 						<goals>
 							<goal>check</goal>
