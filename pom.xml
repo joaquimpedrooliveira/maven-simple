@@ -31,7 +31,7 @@
 				<version>3.0.4</version>
 				<configuration>
 					<effort>Max</effort>
-					<failOnError>true</failOnError>
+					<failOnError>false</failOnError>
 				</configuration>
 			</plugin>
 			<plugin>
@@ -45,7 +45,7 @@
 						<configuration>
 							<encoding>UTF-8</encoding>
 							<consoleOutput>true</consoleOutput>
-							<failOnViolation>true</failOnViolation>
+							<failOnViolation>false</failOnViolation>
 						</configuration>
 						<goals>
 							<goal>check</goal>
